@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var tableView: UITableView!
     
+    @IBOutlet weak var tableView2: UITableView!
+    
     var strings: [String] = ["Alpha", "Beta", "Unlimited", "Revised"]
 
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {

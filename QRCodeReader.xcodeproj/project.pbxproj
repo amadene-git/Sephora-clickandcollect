@@ -10,6 +10,7 @@
 		2444957B2B5C3A6D00B3C5B5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2444957A2B5C3A6C00B3C5B5 /* ViewController.swift */; };
 		2444957D2B5C3A9B00B3C5B5 /* MyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2444957C2B5C3A9B00B3C5B5 /* MyTableViewCell.swift */; };
 		2444957F2B5C3B6600B3C5B5 /* MyTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2444957E2B5C3B6600B3C5B5 /* MyTableViewCell.xib */; };
+		244495812B5C73C500B3C5B5 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 244495802B5C73C500B3C5B5 /* ViewController2.swift */; };
 		F4F09DB71DAF669400026BB2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4F09DB61DAF669400026BB2 /* AppDelegate.swift */; };
 		F4F09DBC1DAF669400026BB2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4F09DBA1DAF669400026BB2 /* Main.storyboard */; };
 		F4F09DBE1DAF669400026BB2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4F09DBD1DAF669400026BB2 /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 		2444957A2B5C3A6C00B3C5B5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		2444957C2B5C3A9B00B3C5B5 /* MyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewCell.swift; sourceTree = "<group>"; };
 		2444957E2B5C3B6600B3C5B5 /* MyTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyTableViewCell.xib; sourceTree = "<group>"; };
+		244495802B5C73C500B3C5B5 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		F4F09DB31DAF669400026BB2 /* QRCodeReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QRCodeReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4F09DB61DAF669400026BB2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F4F09DBB1DAF669400026BB2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				2444957A2B5C3A6C00B3C5B5 /* ViewController.swift */,
 				2444957C2B5C3A9B00B3C5B5 /* MyTableViewCell.swift */,
 				2444957E2B5C3B6600B3C5B5 /* MyTableViewCell.xib */,
+				244495802B5C73C500B3C5B5 /* ViewController2.swift */,
 			);
 			path = QRCodeReader;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 				F4F09DB71DAF669400026BB2 /* AppDelegate.swift in Sources */,
 				2444957B2B5C3A6D00B3C5B5 /* ViewController.swift in Sources */,
 				F4F09DCB1DAF6A4F00026BB2 /* QRScannerController.swift in Sources */,
+				244495812B5C73C500B3C5B5 /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
